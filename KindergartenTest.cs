@@ -4,7 +4,7 @@ using NUnit.Framework;
 
 namespace ShopTARge24Testing
 {
-    public class Test1
+    public class Test
     {
         private static void Main(string[] args)
         {
